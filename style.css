@@ -12,20 +12,27 @@ header{
     text-align: center;
     color: white;
     padding-top: 75px;
+    
 }
 h1{
     font-family: Passion one, sans-serif;
     font-size: 5em;
+    text-shadow: 1px 1px 1px rgb(163, 113, 113);
+
+    
 }
 
 cite{
     font-size: 1.5em;
+    text-shadow: 1px 1px 1px rgb(163, 113, 113);
 }
 
 main p{
     font-size: 3em;
     font-family:Sriracha ;
     padding: 20px;
+    
+    
 }
 
 #parallax1{
@@ -49,12 +56,16 @@ main p{
     background-color: rgba(223, 207, 207, 0.103);
     display: inline-block;
     margin: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black ;
 }
 .borda2{
     color: white;
     background-color: rgba(0, 0, 0, 0.397);
     display: inline-block;
     margin: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px black ;
 }
 footer{
     background-color: black;
