@@ -5,7 +5,9 @@
     margin: 0px;
     
 }
-
+body{
+    background-color: rgb(226, 226, 213);
+}
 header{
     min-height: 200px;
     background-color: black;
@@ -25,6 +27,19 @@ h1{
 cite{
     font-size: 1.5em;
     text-shadow: 1px 1px 1px rgb(163, 113, 113);
+    
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    text-decoration: underline;
+    
+}
+a:active{
+    color: rgb(230, 230, 214);
 }
 
 main p{
