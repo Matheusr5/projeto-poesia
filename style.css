@@ -6,7 +6,7 @@
     padding: 0px;
 }
 body{
-    background-color: rgb(245, 245, 234);
+    background-color: rgb(247, 244, 244);
     
 }
 header{
@@ -49,9 +49,9 @@ main p{
     font-size: 2.5em;
     font-family:Sriracha ;
     padding: 20px;
-    font-size: 2vw;
-    
-    
+    font-size: 2.5vw;
+    line-height: 2em;
+    word-spacing: 5px;
     
 }
 
